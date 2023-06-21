@@ -1,2 +1,2 @@
 # perspective-for-you
-КУрсовая_4
+Курсовая_4
